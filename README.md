@@ -1,0 +1,2 @@
+# angularZ2
+resolucion
